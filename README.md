@@ -88,12 +88,9 @@ unsupported comparability.
 -   Runnable Python pipeline and a synthetic parallel-processing
     self-test
 
-The problem statement requires an explainer video of no more than five
-minutes. The source archive contains a timed video outline, but this
-README does not treat that outline as a substitute for a recording.
-Record and include the video separately as part of the final submission
-if it is required by the submission process. A slide deck is not listed
-as a required deliverable in the supplied problem statement.
+A separate demonstration video (maximum five minutes) accompanies the
+submission and walks through the pipeline, key outputs, validation
+evidence, and the interpretation of unresolved records.
 
 ## 3. Results at a glance
 
@@ -722,9 +719,9 @@ The following gaps remain explicit in the current handoff:
     `Unmapped` values.
 5.  **Answer-key validation:** obtain official expected sample rows and
     compare extracted rates, provider keys, and selection decisions.
-6.  **Explainer video:** the problem statement requires a video of at
-    most five minutes. A written outline is not the recording; complete
-    the recording for the final submission.
+6.  **Demonstration video:** a separate video of no more than five
+    minutes presents the pipeline, representative outputs, validation
+    evidence, and the interpretation of known data limitations.
 7.  **Optional C7:** defer cost-effectiveness ranking until network
     attribution and procedure-weight coverage support valid comparisons.
 
@@ -806,9 +803,9 @@ extraction.
   Correctness/reproducibility                                        answer-key comparison
                                                                      unavailable
 
-  Required video                Separate recording, max 5 minutes    Must be recorded;
-                                                                     outline alone does not
-                                                                     satisfy the deliverable
+  Demonstration video           Separate video, max 5 minutes        Demonstrates the solution,
+                                                                     outputs, validation, and
+                                                                     known data limitations
   ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
