@@ -1,0 +1,244 @@
+{
+    "reporting_entity_name": "Centene Management Company LLC",
+    "reporting_entity_type": "Third Party Administrator",
+    "last_updated_on": "2026-09-28",
+    "version": "2.0.0",
+    "reporting_structure": [{
+            "reporting_plans": [{
+                    "plan_name": "Level Funded $1,000 Ded Plan - QCNN",
+                    "plan_id_type": "ein",
+                    "plan_id": "710601534",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "level Funded $500 Ded Plan - QCNN ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710863568",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "level Funded $500 Ded Plan - QCNN ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710601534",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "710602244",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $2,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "200935503",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Freedom Level Funded $2,000 Ded Plan - Select ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710451066",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $2,000 Ded plan - QCNN",
+                    "plan_id_type": "ein",
+                    "plan_id": "710855464",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $5,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "352605786",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $2,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "710451066",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Freedom Level Funded $2,000 Ded Plan - Select ",
+                    "plan_id_type": "ein",
+                    "plan_id": "455416359",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $5,000 High Ded Plan - Select ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710570778",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $1,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "473565910",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $500 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "352605786",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "473565910",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $1,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "710570778",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded High Deductible Health Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "710758419",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $2,000 Ded plan - QCNN",
+                    "plan_id_type": "ein",
+                    "plan_id": "475197052",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $2,000 Ded plan - QCNN",
+                    "plan_id_type": "ein",
+                    "plan_id": "710747167",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "710570778",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Freedom Level Funded $500 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "352605786",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Freedom Level Funded $2,000 Ded Plan - Select ",
+                    "plan_id_type": "ein",
+                    "plan_id": "200935503",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $1,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "352605786",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $1,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "202519100",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "472229866",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $5,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "352605786",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Freedom Level Funded $5,000 High Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "710570778",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan - QCNN",
+                    "plan_id_type": "ein",
+                    "plan_id": "272292279",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $2,000 Ded Plan - Select",
+                    "plan_id_type": "ein",
+                    "plan_id": "455416359",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded High Deductible Health Plan QCNN ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710863568",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded High Deductible Health Plan Freedom ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710758419",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "710758419",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }, {
+                    "plan_name": "Level Funded $3,000 Ded Plan",
+                    "plan_id_type": "ein",
+                    "plan_id": "824098619",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arkansas Level Funded - ALF"
+                }
+             ],
+            "in_network_files": [{
+                    "description": "in-network file",
+                    "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_in-network.json"
+                }
+            ],
+            "allowed_amount_file": {
+                "description": "allowed-amounts file",
+                "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_allowed-amounts.json"
+            }
+        }
+    ]
+}

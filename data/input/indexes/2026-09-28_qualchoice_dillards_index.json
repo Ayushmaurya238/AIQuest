@@ -1,0 +1,104 @@
+{
+    "reporting_entity_name": "Centene Management Company LLC",
+    "reporting_entity_type": "Third Party Administrator",
+    "last_updated_on": "2026-09-28",
+    "version": "2.0.0",
+    "reporting_structure": [{
+            "reporting_plans": [{
+                    "plan_name": "Dillard's MyChoice Option A 1st Year/12 PXE Active",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's MyChoice Option A 2nd Year/18 PXE Active",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's Qualified HDHP Option F ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's RightChoice Option D ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's MyChoice Option A ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's MyChoice Option A 2nd Year/12 PXE Active",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Out of Area Dillard's MyChoice Option A",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Out of Area Dillard's PreferredChoice Option B",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's MyChoice Option A 1st Year/18 PXE Active",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Out of Area Dillard's Qualified HDHP Option F",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Dillard's PreferredChoice Option B",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }, {
+                    "plan_name": "Out of Area Dillard's RightChoice Option D ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710388071",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Dillard's Inc."
+                }
+             ],
+            "in_network_files": [{
+                    "description": "in-network file",
+                    "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_in-network.json"
+                }
+            ],
+            "allowed_amount_file": {
+                "description": "allowed-amounts file",
+                "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_allowed-amounts.json"
+            }
+        }
+    ]
+}

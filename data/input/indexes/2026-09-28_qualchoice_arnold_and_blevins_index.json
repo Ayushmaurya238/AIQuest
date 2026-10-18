@@ -1,0 +1,27 @@
+{
+    "reporting_entity_name": "Centene Management Company LLC",
+    "reporting_entity_type": "Third Party Administrator",
+    "last_updated_on": "2026-09-28",
+    "version": "2.0.0",
+    "reporting_structure": [{
+            "reporting_plans": [{
+                    "plan_name": "Arnold Blevins - $1000 Deductible ",
+                    "plan_id_type": "ein",
+                    "plan_id": "710449964",
+                    "plan_market_type": "group",
+                    "issuer_name": "QualChoice Health Insurance",
+                    "plan_sponsor_name": "Arnold & Blevins Electric Company, Inc"
+                }
+             ],
+            "in_network_files": [{
+                    "description": "in-network file",
+                    "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_in-network.json"
+                }
+            ],
+            "allowed_amount_file": {
+                "description": "allowed-amounts file",
+                "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_allowed-amounts.json"
+            }
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+  "project": "Centene Provider Rate Curation — Tracks 1 and 2",
+  "created_utc": "2026-10-18T10:44:14+00:00",
+  "run_date": "2026-10-18",
+  "python_version": "3.12.14",
+  "library_versions": {
+    "pandas": "3.0.6",
+    "ijson": "3.6.0",
+    "requests": "2.34.2",
+    "openpyxl": "3.1.5",
+    "PyYAML": "6.0.3"
+  },
+  "config": {
+    "path": "config_both_tracks.yaml",
+    "sha256": "c005c33dcbfd669a764316ac5ede948f8930cf734764093dc7f641b11ea7c340"
+  },
+  "source_inputs": [
+    {
+      "name": "index:2026-09-28_ambetter_index.json",
+      "basename": "2026-09-28_ambetter_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_ambetter_index.json",
+      "available": true,
+      "bytes": 359636,
+      "sha256": "5bdedc3b0108305bd19d26cd554a57499982def9d79ec3052ca645c32a1df25a",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_fidelis_index.json",
+      "basename": "2026-09-28_fidelis_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_fidelis_index.json",
+      "available": true,
+      "bytes": 30014,
+      "sha256": "8d4e9262bf539d79b633685d1839ddba26d98f9fa4ee530a12453cdfc60934df",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_alf_plan_index.json",
+      "basename": "2026-09-28_qualchoice_alf_plan_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_alf_plan_index.json",
+      "available": true,
+      "bytes": 12885,
+      "sha256": "b793117d6d34aa94cefca4a65b5f2bba7bce9fa1a57aabc034a6bc6b00d53d37",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_arnold_and_blevins_index.json",
+      "basename": "2026-09-28_qualchoice_arnold_and_blevins_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_arnold_and_blevins_index.json",
+      "available": true,
+      "bytes": 1271,
+      "sha256": "4d2829d0fcd043e40c5225022b4da5081e74c8c900ff2b9837b3bd8d1a1a9f75",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_big_four_index.json",
+      "basename": "2026-09-28_qualchoice_big_four_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_big_four_index.json",
+      "available": true,
+      "bytes": 2296,
+      "sha256": "9cb0d901f8279a51dd72dab6b018a078d848a5d0f435971f0130121be398bf65",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_city_of_fort_smith_index.json",
+      "basename": "2026-09-28_qualchoice_city_of_fort_smith_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_city_of_fort_smith_index.json",
+      "available": true,
+      "bytes": 2296,
+      "sha256": "9cb0d901f8279a51dd72dab6b018a078d848a5d0f435971f0130121be398bf65",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_city_of_hot_springs_index.json",
+      "basename": "2026-09-28_qualchoice_city_of_hot_springs_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_city_of_hot_springs_index.json",
+      "available": true,
+      "bytes": 1642,
+      "sha256": "323fd9f3825ea1377fae5f23717fc9c3b89478b552308334bc81866559772fef",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_dillards_index.json",
+      "basename": "2026-09-28_qualchoice_dillards_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_dillards_index.json",
+      "available": true,
+      "bytes": 5288,
+      "sha256": "f6b9a4f8a1b32c1be4d150807100fc41c27b484fe6b04f365a8a234e8e3ebabb",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_index.json",
+      "basename": "2026-09-28_qualchoice_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_index.json",
+      "available": true,
+      "bytes": 88828,
+      "sha256": "fbf880349d00ae04179fd660f29b411a082d65b821d8a23b437269dedccce403",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-28_qualchoice_jv_manufacturing_index.json",
+      "basename": "2026-09-28_qualchoice_jv_manufacturing_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-28_qualchoice_jv_manufacturing_index.json",
+      "available": true,
+      "bytes": 2695,
+      "sha256": "1701c082c1725bbfb451860fe02293884b1ce11b5666f48f08937f68616ed96a",
+      "omitted_reason": null
+    },
+    {
+      "name": "index:2026-09-30_healthnet_index.json",
+      "basename": "2026-09-30_healthnet_index.json",
+      "location_scope": "project",
+      "project_relative_path": "data/input/indexes/2026-09-30_healthnet_index.json",
+      "available": true,
+      "bytes": 575930,
+      "sha256": "a397c9f9605e0da76603cd13385bfac90314e1bcc7307ceff224a21482b85b58",
+      "omitted_reason": null
+    },
+    {
+      "name": "mapping_workbook",
+      "basename": "rate_benchmarking_weights.xlsx",
+      "location_scope": "project",
+      "project_relative_path": "data/input/rate_benchmarking_weights.xlsx",
+      "available": true,
+      "bytes": 51219,
+      "sha256": "22b8d570d3e493c40d72b80100dba92c0856d3091bba77d42219fae93c505124",
+      "omitted_reason": null
+    },
+    {
+      "name": "nucc_taxonomy_csv",
+      "basename": "nucc_taxonomy_261.csv",
+      "location_scope": "project",
+      "project_relative_path": "data/input/nucc_taxonomy_261.csv",
+      "available": true,
+      "bytes": 529245,
+      "sha256": "0615cce1dac2fae75e8a0497657fd3ad81f9505c829fb6129a6551583f4fe0fb",
+      "omitted_reason": null
+    },
+    {
+      "name": "nppes_csv",
+      "basename": "npidata_pfile_20050523-20261011.csv",
+      "location_scope": "external_or_missing",
+      "project_relative_path": null,
+      "available": false,
+      "bytes": null,
+      "sha256": null,
+      "omitted_reason": "Large source extract is intentionally not bundled; place at configured relative path for a full rerun."
+    },
+    {
+      "name": "provider_directory_csv",
+      "basename": "provider_directory.csv",
+      "location_scope": "external_or_missing",
+      "project_relative_path": null,
+      "available": false,
+      "bytes": null,
+      "sha256": null,
+      "omitted_reason": "Large source extract is intentionally not bundled; place at configured relative path for a full rerun."
+    },
+    {
+      "name": "nppes_additional:pl_pfile_20050523-20261011.csv",
+      "basename": "pl_pfile_20050523-20261011.csv",
+      "location_scope": "external_or_missing",
+      "project_relative_path": null,
+      "available": false,
+      "bytes": null,
+      "sha256": null,
+      "omitted_reason": null
+    },
+    {
+      "name": "rate_file:8f41591c8c6856bf77a0",
+      "basename": "8f41591c8c6856bf77a0.json",
+      "location_scope": "external_or_missing",
+      "project_relative_path": null,
+      "available": false,
+      "bytes": null,
+      "sha256": null,
+      "omitted_reason": null
+    }
+  ],
+  "supplemental_source_evidence": {
+    "source": "CMS Doctors and Clinicians National Downloadable File",
+    "source_file_name": "DAC_NationalDownloadableFile.csv",
+    "dataset_url": "https://data.cms.gov/provider-data/dataset/mj5m-pzi6",
+    "audit_sha256": "96a271ae51b79631f5ec5fe096b461c34fffbb3bd4cc1aca0a31023161a1890b",
+    "rows_scanned": 3630233,
+    "note": "This CMS source was reviewed separately as NPI-level context; it is not used as payer TIN/address verification."
+  },
+  "pipeline_code": [
+    {
+      "path": "pipeline/__init__.py",
+      "sha256": "a7b6fd33b2f9b76ed20e2ebf37f735e91e6939fb70c9968d56d7573ff47f51fc",
+      "bytes": 398
+    },
+    {
+      "path": "pipeline/c1_parse_index.py",
+      "sha256": "1d05b18c095767c639e7edbc4e7f026048014a1fe20fa57e83227da66ff02ed0",
+      "bytes": 9789
+    },
+    {
+      "path": "pipeline/c2_identify_ppo.py",
+      "sha256": "d5f4396bc903bd8f5d6653b728f8ab17c61e06f8d438a8b453880e66bab89da0",
+      "bytes": 6891
+    },
+    {
+      "path": "pipeline/c3_grade_files.py",
+      "sha256": "78e8e5cf6891ca6cc3f2397b197ffad83a129536c8a83f7327e88e5cab8c71e6",
+      "bytes": 11366
+    },
+    {
+      "path": "pipeline/c4_extract_rates.py",
+      "sha256": "5b1f65cfb84eb64f95cc9543bce2b993f1918072351db96236acff393c0f6fbb",
+      "bytes": 17968
+    },
+    {
+      "path": "pipeline/c5_map_addresses.py",
+      "sha256": "01f38a8c7d0816a14e55d632057587e3c099aff82546ec6e815442dfeefce7cf",
+      "bytes": 23190
+    },
+    {
+      "path": "pipeline/c6_build_rate_file.py",
+      "sha256": "6ec059a891bc41511a280b252c3569e0579dab4dddf754f06fe2e411b7427774",
+      "bytes": 24062
+    },
+    {
+      "path": "pipeline/common.py",
+      "sha256": "aa7af567f5ac9f1dd5ea5344a79a8270333b4194c793fe89592e6cfe1467e72e",
+      "bytes": 7352
+    },
+    {
+      "path": "pipeline/main.py",
+      "sha256": "365b1f6670e520a395afd8d3a752ae43386241de47d34db6765f5cba0056977c",
+      "bytes": 16359
+    },
+    {
+      "path": "pipeline/selftest_parallel_c4.py",
+      "sha256": "21b7e9236d8b3bac18e9f3402c2c0f6e5c881494c0467809fc20b668d792224c",
+      "bytes": 5791
+    },
+    {
+      "path": "pipeline/track2_audit.py",
+      "sha256": "d583d0747aaf5608690c84ef1ceb6494304920128647ffa2a29fa69ffa6b34ff",
+      "bytes": 18370
+    }
+  ],
+  "generated_outputs": [
+    {
+      "path": "data/output_nppes_final/provider_rates.xlsx",
+      "bytes": 4174855,
+      "sha256": "aae3bb8724b737f5b8e888e21e991719915ba57b8b327c59dff2a1829e50b9a5"
+    },
+    {
+      "path": "data/processed_nppes_final/c1_manifest.json",
+      "bytes": 1462,
+      "sha256": "3a5dde05b3ef7be87c2c5d58c325ac7bbadca7ff7216621844f3753364a5b385"
+    },
+    {
+      "path": "data/processed_nppes_final/c2_manifest.json",
+      "bytes": 1174,
+      "sha256": "79273b25bffb868380ae2a6de19fdf4a4d2c83914f3ac3358dfc62b2beb4c90b"
+    },
+    {
+      "path": "data/processed_nppes_final/c4_file_status.csv",
+      "bytes": 484,
+      "sha256": "9ccdee2898e578ead03c8263b4cbf5499d16536c77ff0fb362b81494ec777fbb"
+    },
+    {
+      "path": "data/processed_nppes_final/c5_manifest.json",
+      "bytes": 916,
+      "sha256": "245b289c93f81a734f13a6fbccfb56fb0aa7584cc1490c6241b2b88608db676b"
+    },
+    {
+      "path": "data/processed_nppes_final/c6_manifest.json",
+      "bytes": 1047,
+      "sha256": "e1786ef044d17c12e026c7b53a427a85d7bb8f02aacefa244f7b39e9438c1437"
+    },
+    {
+      "path": "data/processed_nppes_final/file_quality_metrics.csv",
+      "bytes": 941,
+      "sha256": "f117f7b5a51eaaed684ffdbec5ae31828eb0a780a7ffcbbf882d04176b89394a"
+    },
+    {
+      "path": "data/processed_nppes_final/rate_selection_audit.csv",
+      "bytes": 24670503,
+      "sha256": "9b578915995b86e443abce6f83bf9044e8a82ed58f71689a5e06b33d10f11790"
+    },
+    {
+      "path": "data/processed_nppes_final/unresolved_rate_observations.csv",
+      "bytes": 462926,
+      "sha256": "36858f34ae11eb9dfd5c8296aa1fc0ae388232ccd552c0cb0fe50bff6a803859"
+    },
+    {
+      "path": "data/processed_nppes_final/provider_address_links.csv",
+      "bytes": 1522573,
+      "sha256": "092841635f29820b755381b8598df68a3b1fcfcd95921dda4b99c01208bb1f51"
+    },
+    {
+      "path": "data/processed_nppes_final/track2_scorecard.csv",
+      "bytes": 1697,
+      "sha256": "5a66a679033590719bc93c618fe682c11812c91680fe178a97f9b6cd63023fe6"
+    }
+  ],
+  "source_scope_note": "The large NPPES source extracts and MRF source body are not included in the compact submission archive. Their availability and hashes are recorded where accessible; a fresh full run requires the configured NPPES extracts and network access to the selected MRF.",
+  "validation_status": "passed_with_known_requirement_gaps",
+  "answer_key_comparison": "not_performed_answer_key_not_provided"
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+*.tmp
+*.sqlite
+*.db
+.ipynb_checkpoints/
+docs/video_outline.md

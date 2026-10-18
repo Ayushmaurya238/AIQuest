@@ -1,0 +1,62 @@
+{
+  "project": "Centene Provider Rate Curation — Tracks 1 and 2",
+  "created_utc": "2026-10-18T10:44:14+00:00",
+  "validation_status": "passed_with_known_requirement_gaps",
+  "checks": {
+    "C1_index_manifest_complete": true,
+    "C2_plan_classification_complete": true,
+    "C4_has_complete_rate_file": true,
+    "workbook_rate_row_count_matches_C6_manifest": true,
+    "provider_rate_keys_are_unique": true,
+    "unresolved_sheet_matches_C6_manifest": true,
+    "expected_workbook_sheets_present": true,
+    "C5_address_mapping_completed": true,
+    "C6_workbook_completed": true
+  },
+  "workbook_check": {
+    "available": true,
+    "sheet_names": [
+      "Run Summary",
+      "Provider Rates 1",
+      "Unresolved Rates"
+    ],
+    "expected_sheets_present": true,
+    "provider_rate_rows": 36796,
+    "unique_provider_rate_keys": 36796,
+    "duplicate_provider_rate_keys": 0,
+    "unresolved_workbook_rows": 1023
+  },
+  "c4_file_count": 1,
+  "c4_rows_from_status": 1511715,
+  "rate_observation_csv_rows": null,
+  "parallel_test": {
+    "status": "passed",
+    "fixture_file_count": 2,
+    "rate_rows": 2,
+    "peak_concurrent_file_workers": 2,
+    "parallel_and_sequential_outputs_identical": true,
+    "deterministic_output_sha256": "29cf466b1b7ad7410319a256062f2252cd652d16c3f68a8a811f4a4b3ce1282a",
+    "scope": "Synthetic fixture only; does not claim a speedup on the single selected production file."
+  },
+  "answer_key_validation": "not_performed_answer_key_not_provided",
+  "known_gaps": [
+    "The selected physical Health Net CA MRF is linked by the index to PPO and non-PPO plans; the supplied sources do not assign each rate to a particular plan.",
+    "No current payer provider directory with exact NPI, TIN, practice address, and active/effective dates was supplied; NPPES/CMS addresses remain candidates.",
+    "1023 numeric rate observations have no NPI/TIN address candidate.",
+    "599 provider-rate rows remain specialty-unmapped.",
+    "No answer key was supplied for the Track 2 sample-rate comparison criterion.",
+    "The final handoff includes a video outline only per user request; the problem statement's recorded-video deliverable is therefore not included."
+  ],
+  "counts": {
+    "explicit_ppo_plan_links": 452,
+    "selected_physical_rate_files": 1,
+    "extracted_rate_observations": 1511715,
+    "provider_rate_workbook_rows": 36796,
+    "unique_workbook_keys": 36796,
+    "unresolved_numeric_rate_rows": 1023,
+    "npi_tin_pairs": 3775,
+    "pairs_with_address_candidates": 3649,
+    "payer_verified_pairs": 0,
+    "unmapped_specialty_rows": 599
+  }
+}

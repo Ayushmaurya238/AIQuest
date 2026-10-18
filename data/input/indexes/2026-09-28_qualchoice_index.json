@@ -1,0 +1,1868 @@
+{
+    "reporting_entity_name": "Centene Management Company LLC",
+    "reporting_entity_type": "Third Party Administrator",
+    "last_updated_on": "2026-09-28",
+    "version": "2.0.0",
+    "reporting_structure": [{
+            "reporting_plans": [{
+                    "plan_name": "RightChoice High Deductible Health Plan QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance PF5000E - 12 PXE",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance- PF5000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice Plan $0 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO HDHP Performance PF3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice $5,000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Bronze Enhanced HSA PPO w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM-PPO Complete C2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Enhanced PPO QCNN Rider",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Grandfathered RightChoice HDHP",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plam QCNN Rider ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $1500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out Of Area - Gold Enhanced 3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Classicw Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "QCNN PPO Complete C1150",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Enhanced PPO w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Classic HDHPw Ped Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Classic w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Enhanced 2500 PPO w Ped Dental- Ouf of Area",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PreferredChoice $5000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM- Gold Enhanced HSA 3000 with Pediatric Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance PF5000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - PF1700 (HDHP) Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area Platinum Enhanced 500 PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- Silver Enhanced HSA 2700",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Enhanced HSA w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "OUT OF AREA- Federal Employees-High Option ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C1000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Gold Classic HDHP 1500 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $1000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan - HDHP",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete - PF1650 (HDHP) ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PreferredChoice $2000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classic HDHPw Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM - PreferredChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - PF1650 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF7000 (HDHP) QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Bronze Enhanced HSA PPO w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out Of Area PreferredChoice $250 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "$1500 PreferredChoice Plan LGNGF - QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "$3000 PreferredChoice Plan LGNGF - QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Non-Grandfathered HDHP Benefit Plan ARP0264",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Gold Enhanced 1500 PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Enhanced HSA w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PPO Complete C2500K ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Preferred Choice $1000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "NGF RightChoice High Deductible Health Plan QCNN Rider ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "QCNNPreferredChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C4000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $5000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $250 Deductible Large Grp",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Enhanced PPO w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO HDHP Performance- PF5000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Gold Enhancedw Pediatric Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C2000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classic w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan Freedom",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom SILVER ENHANCED -2",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Federal Employees-High Option",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom RightChoice High Deductible Health Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom - PPO Complete - C1000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C3000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM - PreferredChoice $1000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Silver Enhanced 3850",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "QCNN PPO Complete C25002 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold EnhancedPPO w Ped Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area-PreferredChoice $2000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Grandfathered PreferredChoice Plan ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Grandfathered PreferredChoice Plan Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3400 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Platinum Classic 500 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete LG NGF",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "OUT OF AREA- PPO Complete C25002",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Performance - PF3300 (HDHP) ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF6000 (HDHP) - QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF1700 (HDHP) Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom FlexChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $10000 Deductible QCNN RIDER",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "NGF RightChoice High Deductible Health Plan Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan QCNN RIDER",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum Enhanced PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete C25002 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Platinum Enhanced 500 PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area-Silver Enhanced 2000 PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "RightChoice High Deductible Health Plan Freedom",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $250 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom RightChoice High Deductible Health Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan - HDHP Freedom",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR018",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C500I ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Non-Grandfathered Benefit Plan ARP0182",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C500QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $2000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF5000 (HDHP) Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Enhanced PPO w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom RightChoice Family High Deductible Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance PF4000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Grandfathered (SBG) PreferredChoice Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO HDHP Performance PF5000E - 12 PXE ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan PPO QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Silver Enhanced PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classic w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3400 (HDHP) Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan $0 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C1000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Classic w Ped Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete C2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice $2500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Goldw Pediatric Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Gold Classic 1000 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FreedomPreferredChoice Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Silver Classic HDHP 3000 w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete - C5000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom FlexChoice $1150 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum Classic w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PreferredChoice $3000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - ARQ0121W QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Federal Employees-Standard Option ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Grandfathered PreferredChoice Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3400 (HDHP) QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Grandfathered (SBG) PreferredChoice Plan Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan - QCNN RIDER ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $2500 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area-Gold Classic 1000 w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- FlexChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF6500 (HDHP) QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete QCNN Rider",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "RightChoice High Deductible Health Plan R2000- QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C3000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "NGF RightChoice High Deductible Health Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance PF3000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- RightChoice High Deductible Health Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C3000 ARQ0078 QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3500 (HDHP) Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete - C3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C2000 QCNN Rider",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $2000 Deductible - QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $5000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C1500 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Classic HDHPw Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classicw Ped Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Platinum Classic 250 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM - RightChoice High Deductible Health Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Non-Grandfathered HDHP Benefit Plan ARP0264 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classic HDHP w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area - Bronze Classic HSA 6550 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum Classicw Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF6000 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice $750 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FreedomPPO Performance - PF7000 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF1700 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $10000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C2500K",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Gold Classic 1500 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $250 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom FlexChoice $250 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum Enhanced PPO w Ped Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3500 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C1500",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PPO Complete C1000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete - C2500",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF5000 (HDHP) QCNN Rider ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete C1000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $3000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - ARQ0211 QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $1000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Preferred Choice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $3000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out Of Area RightChoice High Deductible Health Plan ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PPO Complete C3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum Classicw Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "`PPO Complete - C1500 Freedom",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM - PreferredChoice $5000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Dillard's Executive Plan ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Grandfathered RightChoice HDHP ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "RightChoice High Deductible Health Plan QCNN RIDER",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3300 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Goldw Pediatric Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM FlexChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Silver Classic HDHP 3600 w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": " PreferredChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete LGNGF QCNN RIDER",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Silver Classic 2000-2 w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classicw Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF6000 (HDHP) QCNN RIDER ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classic HDHPw Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PPO Complete C5000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan - HDHP",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR018",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PreferredChoice $3000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver EnhancedPPO w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum Classic w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR020",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold Classicw Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom FlexChoice $2500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "QCNN PPO HDHP Performance- PF5000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance - PF2000 QCNN RIDER",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM - PreferredChoice $250 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Metallic Plan ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C4000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $2000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Grandfathered PPO Complete - C3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PPO Gold Enhanced 1500 w Pediatric Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete LG NGF Freedom ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice Plan ARP0455",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Gold EnhancedPPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Classic w/ped dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C1000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Non-Grandfathered HDHP Benefit Plan ARP0264 QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Preferred Choice $500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $5000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Enhanced PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - PF1700 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PPO Gold 2000 w Pediatric Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete LG NGF QCNN Rider ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Bronze Classic HSAw Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C5000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C2500QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance PF4000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "QCNN RightChoice High Deductible Health Plan R2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C2000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF7000 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Metallic Plan Commercial Pos ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3300 (HDHP) QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver EnhancedPPO w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $3000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C25002",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Platinum EnhancedPPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $3000 Deductible QCNN RIDER",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Gold Enhanced 1000 PPO w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "$3000 PreferredChoice Plan LGNGF",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C3500 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PreferredChoice $500 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- PreferredChoice $1500 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $2500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PreferredChoice $1500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM PPO Complete C500I",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom FlexChoice $5000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Gold Enhancedw Pediatric Dental QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $2500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area- Gold Classic 200",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice $250 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - Freedom",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom RightChoice High Deductible Health Plan R4000",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $1150 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Non-Grandfathered Benefit Plan ARP0182",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "OUT OF AREA- PPO HDHP Performance - PF2000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $250 Deductible Small Grp",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Bronze Enhanced HSA 6550 - Out of Area",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3300 (HDHP) QCNN RIDER ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $2500 Deductible - QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Metallic Plan ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FlexChoice $5000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out Of Area- PPO HDHP Performance PF3000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $1500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete C1500",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom - FlexChoice $2500 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance (HDHP) QCNN Rider ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan - HDHP Freedom",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "OOA Silver Classicw Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $750 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PPO HDHP Performance2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "FREEDOM - PPO Complete C5000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C1500 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Metallic Plan PPO",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF3500 (HDHP) QCNN ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $250 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C5000 ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete C5000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO HDHP Performance - PF2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area Silver Classic 2000-1 w Ped Dental",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525AR015",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom Silver Enhanced HSA ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "RightChoice HDHP R4000 - QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "OUT OF AREA-PreferredChoice $1000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Performance - PF5000 (HDHP)",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Enhanced HSA PPO w Ped Dental QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR012",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PreferredChoice Plan",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "OUT OF AREA- Federal Employees-Standard Option",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "RightChoice High Deductible Health Plan ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Silver Enhanced HSA PPO w Ped Dental ",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903AR008",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Out of Area PreferredChoice $750 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C1000 QCNN",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO Complete - C1500",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $2000 Deductible",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "Freedom PPO HDHP Performance - PF2000",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PreferredChoice $5,000 Deductible ",
+                    "plan_id_type": "hios",
+                    "plan_id": "70525",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }, {
+                    "plan_name": "PPO Complete - C2500",
+                    "plan_id_type": "hios",
+                    "plan_id": "37903",
+                    "plan_market_type": "group",
+                    "issuer_name": "Qualchoice, LLC"
+                }
+            ],
+            "in_network_files": [{
+                    "description": "in-network file",
+                    "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_in-network.json"
+                }
+            ],
+            "allowed_amount_file": {
+                "description": "allowed-amounts file",
+                "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_qualchoice_allowed-amounts.json"
+            }
+        }
+    ]
+}

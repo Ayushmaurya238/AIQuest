@@ -1,0 +1,12 @@
+track,metric,value,denominator,share,status,note
+1+2,Explicit California group PPO plan links classified,452,,,measured,Plan-link classification does not imply unique plan-level rates.
+1+2,Physical rate files selected,1,1,1.0,measured,1 selected file(s) are shared with non-PPO links; rate-level PPO attribution remains unresolved.
+1+2,Rate observations streamed,1511715,,,measured,Large MRF JSON is iterated; output is written incrementally.
+1,File quality score / grade,89.74,100,0.8974,B,"Quality metrics are screening diagnostics, not ground truth."
+2,NPI/TIN pairs with an address candidate,3649,3775,0.966623,candidate_only,"NPPES practice addresses are candidates, not payer-confirmed TIN/address links."
+2,Payer-verified NPI/TIN/address pairs,0,3775,0.0,blocked_missing_payer_directory,"No current payer directory with exact NPI, TIN, address, and effective date was supplied."
+2,Workbook rate rows resolved to address candidates,36796,37819,0.97295,measured_with_unresolved_rows,1023 numeric rate observations remain on the unresolved worksheet.
+2,Rows with mapped specialty,5494,6093,0.90169,measured_with_unmapped_rows,599 rows have no specialty in the supplied crosswalk or NUCC fallback.
+2,C4 configured worker pool,1,2,0.5,one_selected_file,Selected source file count: 1; concurrency applies across distinct selected files.
+2,Parallel processing self-test,passed,2 workers,,passed,Synthetic two-file fixture; validates concurrent worker overlap and byte-stable output against sequential mode.
+2,Answer-key comparison,not available,answer key not supplied,,not_performed,"Internal row-count, uniqueness, and output consistency checks do not substitute for an answer key."

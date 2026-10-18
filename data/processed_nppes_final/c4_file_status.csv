@@ -1,0 +1,2 @@
+file_id,rate_file_url,selected_for_extraction,mixed_plan_file,network_attribution_status,local_path,status,rate_rows_extracted,provider_references_resolved,error,worker_pool_size,execution_mode
+8f41591c8c6856bf77a0,https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-30_centene-management-company-llc_healthnet-ca_in-network.json,True,True,shared_mixed_plan_file,data/raw/rates/8f41591c8c6856bf77a0.json,complete,1511715,2825,,1,single_file_stream

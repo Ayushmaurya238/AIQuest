@@ -1,0 +1,23 @@
+{
+  "stage": "C6",
+  "status": "complete",
+  "provider_rate_rows": 36796,
+  "unresolved_or_unaddressed_numeric_rate_rows": 1023,
+  "unresolved_reason_counts": {
+    "no_npi_tin_address_candidate": 1023
+  },
+  "unresolved_npi_tin_pairs": 126,
+  "unresolved_unique_npis": 125,
+  "unresolved_observations_csv": "data/processed_nppes_final/unresolved_rate_observations.csv",
+  "rate_selection_conflicts": 9292,
+  "billing_code_specialty_matches": 5494,
+  "unmapped_specialty_rate_rows": 599,
+  "unique_npis_in_rate_file": 3734,
+  "unique_tins_in_rate_file": 2888,
+  "rate_npi_tin_pairs": 3775,
+  "pairs_with_address_candidates": 3649,
+  "pairs_with_address_candidates_share": 0.966623,
+  "verified_pair_address_share": 0.0,
+  "excel_output": "data/output_nppes_final/provider_rates.xlsx",
+  "selection_rule": "Prefer direct negotiated dollar rates, then later valid expiration. When tied distinct amounts remain, use their median as the representative value, flag the conflict, and preserve all raw options in the audit CSV."
+}

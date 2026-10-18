@@ -1,0 +1,596 @@
+{
+    "reporting_entity_name": "Centene Management Company LLC",
+    "reporting_entity_type": "Third Party Administrator",
+    "last_updated_on": "2026-09-28",
+    "version": "2.0.0",
+    "reporting_structure": [{
+            "reporting_plans": [{
+                    "plan_name": "Ambetter from Fidelis Care Bronze",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY005",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY017",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY008",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY001",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Limited Cost Sharing HSA",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY062",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 200",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY014",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY017",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY004",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 150",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY006",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Catastrophic CoverageAmbetter from Fidelis Care Catastrophic",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY009",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Wellness",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY058",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY056",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Zero Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY046",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 250",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY006",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One 250",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY063",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One 150",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY064",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY002",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 200 Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY046",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing Wellness",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY058",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze HSA",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY062",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY064",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY063",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 150",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY002",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY020",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY050",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing Wellness",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY058",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY008",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Limited Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY046",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Zero Cost Sharing HSA",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY061",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY006",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY001",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY014",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY004",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 150 Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY050",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY056",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY011",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One Standard",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY064",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY020",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 150 Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY046",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY002",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One 200",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY063",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY007",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 250",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY002",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY020",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Zero Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY050",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY006",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter fromFidelis Care Silver 250 Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY046",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Limited Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY050",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY055",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY017",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY001",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 200",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY006",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY003",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY011",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Limited Cost Sharing HSA",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY061",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY011",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 200",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY002",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY003",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY055",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY007",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY007",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY064",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY063",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 200 Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY050",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY003",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing Wellness",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY057",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One 150",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY063",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter fromFidelis Care Silver 250 Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY050",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 250",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY014",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY005",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Wellness",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY057",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Zero Cost Sharing Wellness",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY057",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One 250",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY064",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver 150",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY014",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY004",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze HSA",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY061",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY014",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Zero Cost Sharing HSA",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY062",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One Standard",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY063",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Limited Cost Sharing Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY055",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver One 200",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY064",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Zero Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY002",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Bronze Limited Cost Sharing",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY005",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY006",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY046",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Platinum",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY008",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Silver",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY014",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Ambetter from Fidelis Care Gold Enhanced",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303NY056",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }
+            ],
+            "in_network_files": [{
+                    "description": "in-network file",
+                    "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_fidelis-ex_in-network.json"
+                }
+            ],
+            "allowed_amount_file": {
+                "description": "allowed-amounts file",
+                "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_fidelis-ex_allowed-amounts.json"
+            }
+        }, {
+            "reporting_plans": [{
+                    "plan_name": "Essential Plan 1",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303EP000",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Essential Plan 3",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303EP000",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Essential Plan 4",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303EP000",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Essential Plan 200-250",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303EP000",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Essential Plan 2",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303EP000",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }, {
+                    "plan_name": "Essential Plan 200-250, Zero Cost Share",
+                    "plan_id_type": "hios",
+                    "plan_id": "25303EP000",
+                    "plan_market_type": "individual",
+                    "issuer_name": "Fidelis Care"
+                }
+            ],
+            "in_network_files": [{
+                    "description": "in-network file",
+                    "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_fidelis-es_in-network.json"
+                }
+            ],
+            "allowed_amount_file": {
+                "description": "allowed-amounts file",
+                "location": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-28_centene-management-company-llc_fidelis-es_allowed-amounts.json"
+            }
+        }
+    ]
+}

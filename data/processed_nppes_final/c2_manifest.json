@@ -1,0 +1,29 @@
+{
+  "stage": "C2",
+  "status": "complete",
+  "target_state": "CA",
+  "plan_file_links_classified": 3274,
+  "decision_counts": {
+    "excluded_scope_market": 1214,
+    "excluded_scope_state": 748,
+    "excluded_non_ppo": 725,
+    "include_explicit_ppo": 452,
+    "review_network_ambiguous": 132,
+    "review_network_conflict": 3
+  },
+  "unique_explicit_ppo_plans": 452,
+  "unique_files_considered": 33,
+  "files_selected_for_extraction": 1,
+  "selected_mixed_plan_files": 1,
+  "selected_files": [
+    {
+      "file_id": "8f41591c8c6856bf77a0",
+      "rate_file_url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2026-09-30_centene-management-company-llc_healthnet-ca_in-network.json",
+      "clean_ppo_plan_links": 452,
+      "clean_ppo_unique_plan_count": 452,
+      "mixed_plan_file": true,
+      "rate_network_attribution": "shared_mixed_plan_file"
+    }
+  ],
+  "logic": "Only an explicit PPO token plus explicit group market plus California evidence is automatically included. Contradictory, out-of-area, unknown, and ambiguous cases are separately reviewed; Choice and HDHP alone are not treated as PPO."
+}

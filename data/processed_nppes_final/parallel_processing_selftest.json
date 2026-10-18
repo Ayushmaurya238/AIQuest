@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "fixture_file_count": 2,
+  "rate_rows": 2,
+  "peak_concurrent_file_workers": 2,
+  "parallel_and_sequential_outputs_identical": true,
+  "deterministic_output_sha256": "29cf466b1b7ad7410319a256062f2252cd652d16c3f68a8a811f4a4b3ce1282a",
+  "scope": "Synthetic fixture only; does not claim a speedup on the single selected production file."
+}

@@ -1,0 +1,21 @@
+{
+  "stage": "C5",
+  "status": "complete",
+  "rate_npi_tin_pairs": 3775,
+  "unique_npis_in_rate_file": 3734,
+  "unique_tins_in_rate_file": 2888,
+  "pairs_with_address_candidates": 3649,
+  "pairs_with_address_candidates_share": 0.966623,
+  "address_rows": 5436,
+  "verified_pair_address_rows": 0,
+  "verified_pair_address_share": 0.0,
+  "provider_directory_input_present": false,
+  "address_verification_status": "payer_directory_missing",
+  "address_source_records": 8756,
+  "nppes_input_files": [
+    "npidata_pfile_20050523-20261011.csv",
+    "pl_pfile_20050523-20261011.csv"
+  ],
+  "rule": "NPPES-only addresses remain candidates. A payer-directory link is verified only when NPI, TIN, and address match exactly, the directory record is active or effective on the run date, and its verification/update date is within the configured freshness window.",
+  "payer_directory_max_age_days": 365
+}

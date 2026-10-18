@@ -1,0 +1,54 @@
+data_dirs:
+  indexes: data/input/indexes
+  processed: data/processed_nppes_final
+  rates: data/raw/rates
+  output: data/output_nppes_final
+
+sources:
+  mapping_workbook: data/input/rate_benchmarking_weights.xlsx
+  nucc_taxonomy_csv: data/input/nucc_taxonomy_261.csv
+  nppes_csv: data/input/nppes/npidata_pfile_20050523-20261011.csv
+  nppes_additional_csvs:
+    - data/input/nppes/pl_pfile_20050523-20261011.csv
+  nppes_secondary_address_maps:
+    address1: 'Provider Secondary Practice Location Address- Address Line 1'
+    address2: 'Provider Secondary Practice Location Address-  Address Line 2'
+    city: 'Provider Secondary Practice Location Address - City Name'
+    state: 'Provider Secondary Practice Location Address - State Name'
+    zip: 'Provider Secondary Practice Location Address - Postal Code'
+  provider_directory_csv: data/input/provider_directory.csv
+  provider_directory_column_map: {}
+  download_rate_files: true
+  fetch_external_provider_groups: false
+  as_of_date: 2026-10-18
+  provider_directory_max_age_days: 365
+  nppes_column_map:
+    updated_at: 'Last Update Date'
+
+filters:
+  state: CA
+  market_types:
+    - group
+    - small_group
+    - large_group
+
+market_context:
+  brand_state:
+    QualChoice: AR
+  evidence:
+    QualChoice: https://www.centene.com/products-and-services/browse-by-state/arkansas.html
+
+pipeline:
+  batch_size: 50000
+  network_timeout_seconds: 90
+  max_parallel_rate_files: 2
+  quality:
+    minimum_peer_count_for_outlier_check: 10
+    outlier_multiple: 10.0
+
+deliverables:
+  explainer_video: deliverables_not_included_by_user_request.mp4
+  video_excluded_by_user_request: true
+
+logging:
+  level: INFO
